@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <meta property="og:url" content="http://www.zhabamarket.com" />
+  <meta property="og:image" content="http://www.zhabamarket.com/displayobjects/Goods/ttt.png" id="img" />
+  <meta property="og:type" content="website" />
+  <meta property="fb:app_id" content="289788188145370" />
+  <meta property="og:title" content="ЖАБА Маркет! ПСИХОЛОГИЧЕСКИЙ ТЕСТ И УМОПОМРАЧИТЕЛЬНАЯ ИГРА! " />
+  <meta property="og:description" content="ЖАБА Маркет! ПСИХОЛОГИЧЕСКИЙ ТЕСТ И УМОПОМРАЧИТЕЛЬНАЯ ИГРА! Приходите в супермаркеты сети ЖАБА Маркет, лучшие цены на отдельные позиции" />
+  <title>ЖАБА Маркет! ПСИХОЛОГИЧЕСКИЙ ТЕСТ И УМОПОМРАЧИТЕЛЬНАЯ ИГРА! </title>
+  <style>
+    html, body, canvas {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      font-family: 'Tahoma';
+    }
+
+    #bg {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: black;
+      opacity: 0.5;
+    }
+
+    button:focus {outline:0;}
+
+    #button {
+      position: fixed;
+      top: 40px;
+      right: 40px;
+      border: 0;
+      background: transparent;
+    }
+
+    .b:hover {
+      cursor: hand;
+      cursor: pointer;
+    }
+
+    #man {
+      position: fixed;
+      top: 40px;
+      right: 120px;
+      border: 0;
+      background: transparent;
+    }
+
+    .hidden {
+      opacity: 1;
+      display: none;
+    }
+
+    #finish {
+      background: #32323b;
+      color: white;
+      padding: 0;
+      overflow: hidden;
+      height: 580px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 20px;
+    }
+
+    .s {
+      position: fixed;
+      margin: 0 auto;
+      width: 80%;
+      right: 0;
+      left: 0;
+      max-width: 900px;
+      margin-right: auto;
+      margin-left: auto;
+      border-radius: 3px;
+      top: 120px;
+      padding: 20px;
+      height: 500px;
+    }
+
+    #start {
+      background: white;
+      border: 3px solid black;
+      overflow: hidden;
+    }
+
+    .share-c {
+      margin: 0 auto;
+      left: 0;
+      right: 0;
+      width: 480px;
+      padding: 30px;
+    }
+
+    .item {
+      margin: 0 auto;
+      font-size: 16px;
+    }
+
+    .c-left{ float: left; width: 33%; }
+    .c-right{ float: right; width: 33%; }
+    .c-center{ display: inline-block; width: 33%; }
+    .c-big{ float: right; width: 60%; }
+
+    .i {
+      margin: 0 auto;
+      vertical-align: middle;
+      display: block;
+      width: 200px;
+      margin-top: 10px;
+    }
+
+    .g-name {
+      color: #86a1ff;
+      font-size: 24px;
+      font-weight: 700;
+      padding: 60px;
+      padding-top:58px;
+      padding-bottom: 30px;
+      text-transform: uppercase;
+    }
+
+    .cont {
+      margin: 0 auto;
+    }
+
+    .ur-good {
+      color: grey;
+      padding-top: 90px;
+      padding-left: 30px;
+      padding-right: 30px;
+      text-align: center;
+      font-weight: 300;
+      font-size: 14px;
+    }
+
+    .att {
+      margin-top: 50px;
+      width: 500px;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .attn {
+      margin-bottom: 6px;
+      font-size: 22px;
+    }
+
+    .img {
+      height: 150px;
+      margin-top: 20px;
+    }
+
+    .thx {
+      padding: 10px;
+      size: 14px;
+      text-align: center;
+      font-weight: 300;
+      color: white;
+    }
+
+    .b img:hover {
+      -webkit-filter: brightness(0) invert(1);
+    }
+
+    .t {
+      margin-top: 40px;
+    }
+
+    .good-bg {
+      background: #86a1ff;
+      height: 500px;
+    }
+
+    #good {
+      padding: 7px;
+      margin: 0 auto;
+      margin-bottom: 10px;
+      display: inherit;
+      height: 300px;
+      margin-top: 100px;
+    }
+
+    .frame {
+      background-image: url(displayobjects/FinishScreen/frame.png);
+      background-size: 100%;
+      height: 273px;
+    }
+
+    .frog-b {
+      position: absolute;
+      right: 30px;
+      top: 35px;
+      width: 140px;
+    }
+
+    .exp {
+      font-size: 16px;
+      line-height: 30px;
+      padding: 90px;
+      padding-top: 10px;
+      color: white;
+      font-style: italic;
+    }
+
+    .share {
+      background: #ff9186;
+      color: white;
+      border: 0;
+      border-radius: 5px;
+      padding: 10px;
+      font-size: 16px;
+      height: 24px;
+      width: 120px;
+      display: inline-block;
+      margin-right: 7px;
+    }
+
+    .share a,.share a:hover, .share a:visited, .share a:focus {
+      color: white;
+    }
+
+    .share-text {
+      display: inline-block;
+      vertical-align: middle;
+      font-style: normal;
+      margin-top: -10px;
+    }
+
+    .share img {
+      height: 19px;
+    }
+
+    .bag {
+      width: 68px;
+      height: 68px;
+      margin-top: -68px;
+      opacity: 0;
+      background:url(displayobjects/FinishScreen/bag.png);
+      -webkit-animation: bag 30s infinite  linear;
+      -moz-animation: bag 30s infinite  linear;
+      -webkit-animation-delay: 3s;
+      -moz-animation-delay: 3s;
+    }
+    @-webkit-keyframes bag {
+      0% {
+        opacity: 0;
+      -webkit-transform: translate(0, 0px) rotateZ(0deg);
+      }
+      1% {
+        opacity: 1;
+      }
+      100% {
+      -webkit-transform: translate(150px, 1200px) rotateZ(360deg);
+      }
+    }
+    @-moz-keyframes bag {
+      0% {
+      -webkit-transform: translate(0, 0px) rotateZ(0deg);
+      }
+      1% {
+        opacity: 1;
+      }
+      100% {
+      -webkit-transform: translate(150px, 1200px) rotateZ(360deg);
+      }
+    }
+    .wallet {
+      position: fixed;
+      top: 40px;
+      left: 40px;
+    }
+    #cash {
+      position: fixed;
+      top: 55px;
+      left: 110px;
+      font-size: 18px;
+    }
+    .hf {
+      position: absolute;
+      left: 100px;
+      bottom: 50px;
+    }
+    #basket {
+      position: fixed;
+      top: 35px;
+      left: 240px;
+      max-width: 1100px;
+      background-size: cover;
+      width: 90%;
+      height: 70px;
+      background:url(displayobjects/Background/basket.png) no-repeat;
+      background-size: 80% 70px;
+      overflow: hidden;
+    }
+    .l {
+      text-decoration: none;
+    }
+    @keyframes scalein {
+      0% {
+          transform: scale(0);
+          -webkit-transform: scale(0);
+      }
+      100% {
+          transform: scale(1.0);
+          -webkit-transform: scale(1.0);
+      }
+    }
+
+    .close {
+      position: absolute;
+      right: 32px;
+      top: 32px;
+      width: 32px;
+      height: 32px;
+      opacity: 0.3;
+    }
+    .close:hover {
+      opacity: 1;
+    }
+    .close:before, .close:after {
+      position: absolute;
+      left: 15px;
+      content: ' ';
+      height: 33px;
+      width: 2px;
+      background-color: #333;
+    }
+    .close:before {
+      transform: rotate(45deg);
+    }
+    .close:after {
+      transform: rotate(-45deg);
+    }
+
+
+    .anim {
+      -webkit-animation: bounce-in-fwd 1.5s cubic-bezier(0.175, 0.885, 0.320, 1.275) 2s both;
+      -moz-animation: bounce-in-fwd 1.5s cubic-bezier(0.175, 0.885, 0.320, 1.275) 2s both;
+      animation: bounce-in-fwd 1.5s cubic-bezier(0.175, 0.885, 0.320, 1.275) 2s both;
+    }
+
+    @-webkit-keyframes bounce-in-fwd{0%{-webkit-transform:scale(0);transform:scale(0);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}38%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out;opacity:1}55%{-webkit-transform:scale(.7);transform:scale(.7);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}72%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}81%{-webkit-transform:scale(.84);transform:scale(.84);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}89%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}95%{-webkit-transform:scale(.95);transform:scale(.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}}@keyframes bounce-in-fwd{0%{-webkit-transform:scale(0);transform:scale(0);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}38%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out;opacity:1}55%{-webkit-transform:scale(.7);transform:scale(.7);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}72%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}81%{-webkit-transform:scale(.84);transform:scale(.84);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}89%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}95%{-webkit-transform:scale(.95);transform:scale(.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}}
+    #basket img {
+      width: 70px;
+      padding: 1px;
+      margin: 0;
+      animation: scalein 1s ease-in-out; 
+    }
+    #close {
+      position: absolute;
+      top: 0px;
+      right: 0px;
+    }
+  </style>
+</head>
+<body class="op">
+  <div id="bg"></div>
+  <div id="start" class="s anim">
+    <div id="close"><a href="javascript:void(0);" class="close"></a></div>
+    <div class="bag"></div>
+    <div class="cont">
+      <h1>Добро пожаловать в Сеть супермаркетов "Жаба Маркет"!</h1>
+      <div class="item c-left">
+        <div class="i img">
+          <img src="/displayobjects/FinishScreen/arrows.png" />
+        </div>
+        <span class="i t"><b>1.</b> Управляйте игроком при помощи стрелок на клавиатуре.</span>
+      </div>
+      <div class="item c-center">
+        <div class="i img"><img src="/displayobjects/FinishScreen/example.png" /></div>
+        <span class="i t"><b>2.</b> Совершайте покупки подойдя к товару и нажав клавишу "Пробел" или "Энтер".</span>
+      </div>
+      <div class="item c-right">
+        <div class="i img"><img src="/displayobjects/FinishScreen/frog.png" /></div>
+        <span class="i t"><b>3.</b> Когда покупки завершены, пройдите на кассу и узнайте свой результат!</span>
+      </div>
+      <img class="hf" src="/displayobjects/FinishScreen/headphones.png" />
+      <div class="att i">
+        <div class="attn">ВНИМАНИЕ! В нашем магазине играет музыка!</div>
+        Нажмите любую клавишу, чтобы начать. Приятных&nbsp;покупок!
+      </div>
+    </div>
+  </div>
+
+  <div id="finish" class="hidden s anim">
+    <div class="good-bg c-left">
+      <img id="good" src="/displayobjects/Goods/beer.png" />
+      <div class="thx">
+        Спасибо за покупку и приходите к нам еще!
+        <br />
+      </div>
+    </div>
+    <div class="c-big">
+      <img class="frog-b" src="/displayobjects/FinishScreen/frog_b.png" />
+      <div class="ur-good">Ваш определяющий товар:
+        <div class="frame">
+          <div class="g-name" id="g-name">Пиво</div>
+          <div class="exp" id="exp">
+            Ты чиканулся на мясном рулете и телесереалах, что ж так тому и быть
+          </div>
+        </div>
+      </div>
+      <div class="share-c">
+        <div class="share">
+          <a class="l" id="fblink" href="https://www.facebook.com/sharer/sharer.php?picture=http://www.zhabamarket.com/displayobjects/Goods/ttt.png&u=http%3A%2F%2Fwww.zhabamarket.com%2F&amp;src=sdkpreparse" target="_blank">
+            <img src="/displayobjects/FinishScreen/fb.png" />
+            <span class="share-text">Поделиться</span>
+          </a>
+        </div>
+        <div class="share">
+          <a class="l"  id="vklink" href="http://vkontakte.ru/share.php?image=http://www.zhabamarket.com/displayobjects/Goods/ttt.png&url=http%3A%2F%2Fwww.zhabamarket.com" target="_blank">
+            <img src="/displayobjects/FinishScreen/vk.png" />
+            <span class="share-text">Поделиться</span>
+          </a>
+        </div>
+        <div class="share">
+          <a class="l"  href="mailto:matyunya@matyunya.com">
+            <img src="/displayobjects/FinishScreen/email.png" />
+            <span class="share-text">Почта</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div style="width: 100%"><a href="/"><img style="width:100%" src="/displayobjects/FinishScreen/replay.png" /></a></div>
+  </div>
+
+  <div id="interface" class="hidden">
+    <img src="/displayobjects/Cash/wallet.png" alt="wallet" class="wallet" id="wallet" />
+    <div id="cash">1000₽</div>
+    <div id="basket"></div>
+  </div>
+  <button type="submit" id="button" class="b"><img src="/displayobjects/Interface/fs.png" alt="fullscreen" /></button>
+  <button type="submit" id="man" class="b"><img src="/displayobjects/Interface/man.png" alt="man" /></button>
+  <script src="bundle.js"></script>
+  <script type="text/javascript">
+    var start = document.getElementById('start').classList;
+    var bg = document.getElementById('bg').classList;
+    var interface = document.getElementById('interface').classList;
+    var clicked = false;
+
+    var toggle = function() {
+      if (!start.contains("hidden")) {
+        start.add('hidden');
+        bg.add('hidden');
+      } else {
+        start.remove('hidden');
+        start.remove('anim');
+        bg.remove('hidden');
+      }
+    }
+
+    document.getElementById('man').onclick = toggle;
+    document.getElementById('close').onclick = toggle;
+
+    document.onkeydown = function() {
+    if (!clicked) {
+      start.add('hidden');
+      bg.add('hidden');
+      interface.remove('hidden');
+      clicked = true;
+    }
+    };
+  </script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=854572577938430";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56018864-5', 'auto');
+  ga('send', 'pageview');
+  </script>
+</body>
+</html>

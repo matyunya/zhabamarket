@@ -1,0 +1,2223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cashier",
+				"cashiers"
+			],
+			[
+				"close",
+				"closestCashier"
+			],
+			[
+				"purch",
+				"purchased"
+			],
+			[
+				"finis",
+				"finishLine1"
+			],
+			[
+				"finish",
+				"finishLine2"
+			],
+			[
+				"fini",
+				"finishLine1"
+			],
+			[
+				"bask",
+				"basketNode"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"exp",
+				"explanation"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"priceT",
+				"priceText"
+			],
+			[
+				"pus",
+				"purchased"
+			],
+			[
+				"qual",
+				"qualities"
+			],
+			[
+				"qua",
+				"qualities"
+			],
+			[
+				"pu",
+				"purchased"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"fii",
+				"finishScreen"
+			],
+			[
+				"pusr",
+				"purchased"
+			],
+			[
+				"pur",
+				"purchased\t(App.js)"
+			],
+			[
+				"casher",
+				"cashierPoint"
+			],
+			[
+				"cal",
+				"calcToPoint"
+			],
+			[
+				"cork",
+				"croakText"
+			],
+			[
+				"crok",
+				"croakText"
+			],
+			[
+				"eggS",
+				"eggsSound"
+			],
+			[
+				"cho",
+				"chocremo"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"is",
+				"isShelf"
+			],
+			[
+				"cash",
+				"cashier"
+			],
+			[
+				"tarns",
+				"transparent"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"dis",
+				"display\t(index.less)"
+			],
+			[
+				"checkCan",
+				"checkCanSearchDebounced"
+			],
+			[
+				"Up",
+				"UpdateShow\t(show.go)"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"outl",
+				"outline-color"
+			],
+			[
+				"review",
+				"reviewResolver"
+			],
+			[
+				"text",
+				"textfield\t(ShowForm.js)"
+			],
+			[
+				"teat",
+				"teatrURL"
+			],
+			[
+				"onlYA",
+				"OnlyApproved"
+			],
+			[
+				"appr",
+				"approved\t(Search.js)"
+			],
+			[
+				"appro",
+				"approveRequest"
+			],
+			[
+				"d",
+				"director"
+			],
+			[
+				"De",
+				"DefinePlugin"
+			],
+			[
+				"get",
+				"getGraph"
+			],
+			[
+				"api",
+				"api_rsa.pub"
+			],
+			[
+				"Auth",
+				"AuthStore"
+			],
+			[
+				"Per",
+				"PermissionChecker"
+			],
+			[
+				"News",
+				"NewsPopUp"
+			],
+			[
+				"heade",
+				"header_text"
+			],
+			[
+				"hea",
+				"header_text"
+			],
+			[
+				"newsP",
+				"newsPopUpOpen"
+			],
+			[
+				"New",
+				"NewsPopUp"
+			],
+			[
+				"newsPop",
+				"newsPopUp"
+			],
+			[
+				"GET_",
+				"GET_NEWS_POPUP_SUCCESS\t(NewsPopUp.js)"
+			],
+			[
+				"GET",
+				"GET_NEWS_POPUP_SUCCESS\t(ActionTypes.js)"
+			],
+			[
+				"request",
+				"request_id"
+			],
+			[
+				"REQUS",
+				"REQUEST_CONTACT"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"onCHa",
+				"onChangeName"
+			],
+			[
+				"TopF",
+				"topFiveArr"
+			],
+			[
+				"Pr",
+				"PropTypes\t(RatingPage.js)"
+			],
+			[
+				"ab",
+				"absoluteTotal\t(RatingsController.php)"
+			],
+			[
+				"global",
+				"global_discount\t(media.php)"
+			],
+			[
+				"preg_",
+				"preg_replace('/[^0-9"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"HO",
+				"HOUSE_SALE"
+			],
+			[
+				"HOUS",
+				"HOUSE_RENT"
+			],
+			[
+				"ROOM",
+				"ROOM_SALE"
+			],
+			[
+				"APE",
+				"APARTMENT_SALE"
+			],
+			[
+				"Ho",
+				"HOUSE_RENT"
+			],
+			[
+				"closeP",
+				"closePopUp"
+			],
+			[
+				"space",
+				"space_total"
+			],
+			[
+				"lead",
+				"leadsJoin"
+			],
+			[
+				"cate",
+				"category\t(index.html.twig)"
+			],
+			[
+				"dist",
+				"district"
+			],
+			[
+				"street",
+				"searchStreetIds"
+			],
+			[
+				"havin",
+				"havingsDeals"
+			],
+			[
+				"dema",
+				"demandsJoin"
+			],
+			[
+				"read",
+				"readyCondition"
+			],
+			[
+				"reu",
+				"requests"
+			],
+			[
+				"last_ac",
+				"last_action_type\t(RequestModel.php)"
+			],
+			[
+				"action",
+				"action_type"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"requ",
+				"requests"
+			],
+			[
+				"acti",
+				"actionName"
+			],
+			[
+				"defaul",
+				"defaultLimit"
+			],
+			[
+				"array_",
+				"array_shift"
+			],
+			[
+				"strto",
+				"strtoupper\t(index.php)"
+			],
+			[
+				"Abstra",
+				"AbstractController\t(AbstractController.php)"
+			],
+			[
+				"RequestDem",
+				"RequestDemandsModel"
+			],
+			[
+				"company",
+				"company_id\t(DealsModel.php)"
+			],
+			[
+				"compla",
+				"complainExists"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"conta",
+				"contact_id"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"getYand",
+				"getYandexPrecision\t(GeoObject.php)"
+			],
+			[
+				"yand",
+				"yandexGeo"
+			],
+			[
+				"point",
+				"pointOrStreet\t(Geocoder.php)"
+			],
+			[
+				"expl",
+				"explode\t(lists.php)"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"key",
+				"array_keys"
+			],
+			[
+				"job",
+				"job_type"
+			],
+			[
+				"Prin",
+				"Println\t ƒ"
+			],
+			[
+				"main",
+				"main_channel"
+			],
+			[
+				"parseOkW",
+				"parseOkWithPets"
+			],
+			[
+				"N",
+				"NEEDS_MAINTAINANCE_VALUE\t(DescriptionParser.php)"
+			],
+			[
+				"setFu",
+				"setFurbish\t(DescriptionParser.php)"
+			],
+			[
+				"setOk",
+				"setOkWithChildren\t(DescriptionParser.php)"
+			],
+			[
+				"t",
+				"throw\tThrow Exception"
+			],
+			[
+				"js",
+				"json_decode($notify['payload\t(Notify.php)"
+			],
+			[
+				"pgsq",
+				"pgsql_production"
+			],
+			[
+				"ored",
+				"order_by"
+			],
+			[
+				"orde",
+				"order_by"
+			],
+			[
+				"top",
+				"top_results"
+			],
+			[
+				"yar",
+				"year_from"
+			],
+			[
+				"parent_geo",
+				"parent_geo_id"
+			],
+			[
+				"proper",
+				"property_id"
+			],
+			[
+				"PH",
+				"PHP_EOL\t(CollectorTester.php)"
+			],
+			[
+				"cia",
+				"cian_id"
+			],
+			[
+				"Log",
+				"LogstashFormatter\t(LogstashFormatter.php)"
+			],
+			[
+				"adsrc_",
+				"adsrc_object_id"
+			],
+			[
+				"STATUS",
+				"STATUS_PROCESSED\t(APublishQueue.php)"
+			],
+			[
+				"prope",
+				"property_id"
+			],
+			[
+				"J",
+				"JSON_App\t(JSON_App.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "upp",
+		"selected_items":
+		[
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git chkec",
+				"Git: Checkout Current File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git hceck",
+				"Git: Checkout Current File"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"sftp brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"eslit",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp brw",
+				"SFTP: Browse Server…"
+			],
+			[
+				"cross",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"git ceh",
+				"Git: Checkout Current File"
+			],
+			[
+				"babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Preferences: Babel – Default"
+			],
+			[
+				"sftp b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp bre",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftpbr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"brows ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"git cec",
+				"Git: Checkout Current File"
+			],
+			[
+				"sftp be",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfpt",
+				"SFTP: Browse Server…"
+			],
+			[
+				"jab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git stau",
+				"Git: Status"
+			],
+			[
+				"js",
+				"PackageDev: New JSON Syntax Definition"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git lgo",
+				"Git: Log Current File"
+			],
+			[
+				"git log cur",
+				"Git: Log Current File"
+			],
+			[
+				"search in",
+				"Search In Project"
+			],
+			[
+				"search",
+				"Search In Project"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"searc",
+				"Search In Project"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"identity",
+				"DashDoc: invoke Dash with selected word (flip syntax sensitivity)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove  ",
+				"Package Control: Remove Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"stp",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sftop",
+				"Set Syntax: SFTP Output Panel"
+			],
+			[
+				"git lg",
+				"Git: Log Current File"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"sfp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftrp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"sftpb",
+				"SFTP: Browse Server…"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ce",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"sftpbo",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"broser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git show",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"job",
+				"Set Syntax: Json Generic Object Elements"
+			],
+			[
+				"sql",
+				"SQLExec: Execute"
+			],
+			[
+				"package isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageDev",
+				"PackageDev: New Commands File"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git rest",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git checkot",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git lof ",
+				"Git: Log Current File"
+			],
+			[
+				"refresf",
+				"Project: Refresh Folders"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git show ",
+				"Git: Show Current File"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"packavi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Format ",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"\\x",
+			"import User.Psycopg",
+			"import psycopg",
+			"subprocess.check_output(\"/usr/local/bin/psql\", shell=True)",
+			"subprocess.check_output(\"cd /Users/mac\", shell=True)",
+			"subprocess.check_output(\"cd /Users/mac\")",
+			"subprocess.call(\"cd /Users/mac\")",
+			"subprocess.call(\"cd /Users/mac;\")",
+			"subprocess.call(\"cd /Users/mac; ls -la\")",
+			"subprocess.call([\"ls\", \"-la\"])",
+			"subprocess.call(\"ls -la\")",
+			"subprocess.call(\"ls\")",
+			"call(\"ls\")",
+			"import subprocess",
+			"subprocess.call",
+			"subprocesses.call",
+			"view.run_command(\"sql\")",
+			"view.run_command(\"example\")",
+			"view.run_command(\"sql\")",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac/Sites/pixi-seed",
+		"/Users/mac/Sites/pixi-seed/app",
+		"/Users/mac/Sites/pixi-seed/build"
+	],
+	"file_history":
+	[
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/App/App.js",
+		"/Users/mac/Sites/pixi-seed/app/index.html",
+		"/Users/mac/Sites/learnnextjs-demo/next.config.js",
+		"/Users/mac/Sites/pixi-seed/webpack.config.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/Character/Frog.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/Shelf/Shelf.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/FinishScreen/FinishScreen.js",
+		"/Users/mac/Sites/pixi-seed/package.json",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/Character/Character.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/ScaledContainer/ScaledContainer.js",
+		"/Users/mac/Sites/pixi-seed/OLDApp.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/Cash/Cash.js",
+		"/Users/mac/Downloads/css3-FallingLeaves-effect/index.html",
+		"/Users/mac/Sites/pixi-seed/app/app.js",
+		"/Users/mac/Sites/pixi-seed/build/bundle.js",
+		"/Users/mac/Sites/pixi-seed/build/index.html",
+		"/Users/mac/Sites/pixi-seed/node_modules/yy-intersects/src/shape.js",
+		"/Users/mac/Sites/pixi-seed/app/displayobjects/Background/Background.js",
+		"/Users/mac/Sites/pixi-seed/app/Renderer/Renderer.js",
+		"/Users/mac/Sites/pixi-seed/app/stores/AnimationStore.js",
+		"/Users/mac/Sites/pixi-seed/README.md",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/server/schema.graphql",
+		"/Users/mac/Sites/tadmin/src/routes/Shows/components/Search.js",
+		"/Users/mac/Sites/tadmin/src/routes/Shows/components/ShowForm.js",
+		"/Users/mac/Sites/tadmin/src/routes/Shows/modules/shows.js",
+		"/Users/mac/Sites/tadmin/src/routes/Shows/containers/ShowsContainer.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/show.go",
+		"/Users/mac/Sites/tadmin/src/routes/Shows/components/Show.js",
+		"/Users/mac/Sites/tadmin/src/index.html",
+		"/Users/mac/Sites/tadmin/src/routes/Show/modules/show.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/actions.js",
+		"/Users/mac/Sites/tadmin/src/routes/Show/components/Show.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/style/index.less",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/store.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/components/search.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/components/show.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/webpack.config.babel.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/components/header.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/index.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/DefaultHelmet.jsx",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/components/app.js",
+		"/Users/mac/Sites/tadmin/config/webpack.config.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/style/search.less",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/style/show.less",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/components/articles.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/package.json",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/helmet.jsx",
+		"/Users/mac/Sites/tadmin/src/routes/index.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/server/server.go",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/reducers.js",
+		"/Users/mac/Sites/tadmin/.eslintrc",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/style/articles.less",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/.eslintrc",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/src/style/normalize.less",
+		"/Users/mac/Sites/tadmin/src/styles/core.scss",
+		"/Users/mac/Sites/tadmin/package.json",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/build/bundle.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/teatralium/client/components/homepage/index.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/teatralium.go",
+		"/Users/mac/Sites/t/src/routes/Shows/components/show.css",
+		"/Users/mac/Sites/t/src/routes/Show/components/show.css",
+		"/Users/mac/Sites/t/src/routes/Shows/components/Search.js",
+		"/Users/mac/Sites/t/src/routes/Shows/components/ShowForm.js",
+		"/Users/mac/Sites/t/src/index.html",
+		"/Users/mac/Sites/t/src/styles/core.scss",
+		"/Users/mac/Sites/t/src/routes/Show/components/Show.js",
+		"/Users/mac/Downloads/01df98179d874c9eb4010d1cdf608e0a.ico/manifest.json",
+		"/Users/mac/Sites/t/src/routes/Shows/components/Critique.js",
+		"/Users/mac/Sites/t/src/routes/Shows/modules/shows.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/.gitlab-ci.yml",
+		"/Users/mac/.profile",
+		"/Users/mac/Sites/t/src/routes/Show/containers/ShowContainer.js",
+		"/Users/mac/Sites/t/src/components/Header/Header.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/critique.go",
+		"/Users/mac/Sites/t/src/routes/Show/modules/show.js",
+		"/private/var/db/uuidtext/34/1EBC48CCF432929097F61715AC573E",
+		"/Users/mac/Sites/t/src/routes/Show/components/ShowForm.js",
+		"/Users/mac/Sites/t/src/routes/Show/components/Search.js",
+		"/Users/mac/Sites/t/src/routes/Shows/components/Show.js",
+		"/Users/mac/Sites/t/src/routes/Home/components/HomeView.js",
+		"/Users/mac/Sites/t/src/components/Form/Field.js",
+		"/Users/mac/Sites/t/src/components/Form/Field.css",
+		"/Users/mac/go/src/github.com/matyunya/zhizn/templates/index.tmpl.html",
+		"/Users/mac/Sites/t/server/main.js",
+		"/Users/mac/Sites/t/src/routes/Shows/components/search.css",
+		"/Users/mac/Sites/t/src/layouts/CoreLayout/index.js",
+		"/Users/mac/Sites/t/src/components/Spinner/Spinner.js",
+		"/Users/mac/Sites/t/package.json",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/server/test.sh",
+		"/Users/mac/go/src/github.com/neelance/graphql-go/internal/schema/schema.go",
+		"/Users/mac/Sites/t/src/routes/Shows/containers/ShowsContainer.js",
+		"/Users/mac/Sites/t/config/webpack.config.js",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/review.go",
+		"/Users/mac/Sites/t/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/store/createStore.js.html",
+		"/Users/mac/Sites/t/src/routes/index.js",
+		"/Users/mac/Sites/t/src/routes/Shows/index.js",
+		"/Users/mac/Sites/t/src/main.js",
+		"/Users/mac/Sites/t/src/styles/_base.scss",
+		"/Users/mac/Sites/t/src/store/reducers.js",
+		"/Users/mac/Sites/t/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/store/reducers.js.html",
+		"/Users/mac/go/src/github.com/neelance/graphql-go/example/starwars/starwars.go",
+		"/Users/mac/Sites/t/src/layouts/CoreLayout/CoreLayout.js",
+		"/Users/mac/Sites/t/.eslintrc",
+		"/Users/mac/go/src/github.com/neelance/graphql-go/internal/common/types.go",
+		"/Users/mac/go/src/github.com/neelance/graphql-go/internal/exec/exec.go",
+		"/Users/mac/Sites/t/config/project.config.js",
+		"/Users/mac/go/src/github.com/neelance/graphql-go/relay/relay.go",
+		"/Users/mac/Sites/t/src/routes/Counter/modules/counter.js",
+		"/Users/mac/Sites/t/src/routes/Shows/containers/CounterContainer.js",
+		"/Users/mac/Sites/t/README.md",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/testplace.json",
+		"/Users/mac/Sites/t/dist/index.html",
+		"/Users/mac/Sites/teatralium/bin/server.js",
+		"/Users/mac/Sites/teatralium/src/routes/Counter/index.js",
+		"/Users/mac/Sites/teatralium/src/store/reducers.js",
+		"/Users/mac/Sites/teatralium/src/store/createStore.js",
+		"/Users/mac/Sites/teatralium/src/routes/Counter/components/Counter.js",
+		"/Users/mac/Sites/teatralium/src/routes/index.js",
+		"/Users/mac/Sites/t3/ui/routes/FeedPage.js",
+		"/Users/mac/Sites/t3/ui/server.js",
+		"/Users/mac/Sites/teatralium/src/main.js",
+		"/Users/mac/go/src/github.com/samsarahq/thunder/livesql/binlog.go",
+		"/Users/mac/.ssh/test",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Case Conversion/Default (OSX).sublime-keymap",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/schema.graphql",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mac/go/src/gitlab.com/teatralium/api/server/page.html",
+		"/Users/mac/.ssh/test.pub"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+			"/Users/mac/Sites/pixi-seed",
+			"/Users/mac/Sites/tadmin",
+			"/Users/mac/go/src/gitlab.com/teatralium,-build/*",
+			"/Users/mac/go/src/gitlab.com/teatralium",
+			"/Users/mac/Sites/tadmin",
+			"/Users/mac/go/src/gitlab.com/teatralium",
+			"/Users/mac/Sites/tadmin",
+			"/Users/mac/go/src/gitlab.com/teatralium",
+			"/Users/mac/Sites/tadmin",
+			"/Users/mac/go/src/gitlab.com/teatralium/teatralium,-build/*",
+			"/Users/mac/go/src/gitlab.com/teatralium/teatralium",
+			"/Users/mac/Sites/tadmin",
+			"/Users/mac/go/src/gitlab.com/teatralium/teatralium",
+			"/Users/mac/Sites/t/src/",
+			"/Users/mac/Sites/t/src/routes/Show",
+			"/Users/mac/Sites/t",
+			"/Users/mac/go/src/gitlab.com/teatralium/api",
+			"/Users/mac/Sites/t/",
+			"/Users/mac/Sites/t/src/components",
+			"/Users/mac/Sites/t",
+			"/Users/mac/go/src/github.com/neelance/graphql-go",
+			"/Users/mac/Sites/t",
+			"/Users/mac/go/src/github.com/neelance/graphql-go",
+			"/Users/mac/Sites/t",
+			"/Users/mac/Sites/t3",
+			"/Users/mac/Sites/teatralium",
+			"/Users/mac/go/src/github.com/neelance/graphql-go",
+			"/Users/mac/go/src/github.com/samsarahq/thunder",
+			"/Users/mac/go/src/github.com/neelance",
+			"/Users/mac/go/src/gitlab.com/teatralium",
+			"/Users/mac/Desktop/agenton/a3,-index/",
+			"/Users/mac/Desktop/agenton/a3/js,-index/",
+			"/Users/mac/Desktop/agenton/a3/,-index/",
+			"/Users/mac/Desktop/agenton/a3/js,-index/",
+			"/Users/mac/Desktop/agenton/a3,-index/",
+			"/Users/mac/Desktop/agenton/tools,-index/",
+			"/Users/mac/Desktop/agenton/a3,-index/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3,-index/",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/a3,-/index",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3,-index/",
+			"/Users/mac/Desktop/agenton/a3,-index",
+			"/Users/mac/Desktop/agenton/a3,-*/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3,-/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3/testing",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3/",
+			"/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3/",
+			"/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/дшиы",
+			"/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3/",
+			"/Users/mac/Desktop/agenton/a3/index",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru",
+			"/Users/mac/Desktop/agenton/agento",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/index",
+			"/Users/mac/Desktop/agenton/api.agenton.ru/",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index/src/modules/Products",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agentonnents/Table",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index/src/modules/NewBuildings/components/Table",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/tools.agenton2.ru",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/Model",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/agenton3",
+			"/Users/mac/Desktop/agenton/agenton3.ru/",
+			"/Users/mac/Desktop/agenton/agenton3.ru/index",
+			"/Users/mac/Desktop/agenton/agenton3.ru/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"og:image",
+			"sharer",
+			"app_id",
+			"og:",
+			"share",
+			"let",
+			"const",
+			"getClosest",
+			"this.getClosest(",
+			"closestCashier",
+			"checkfinish",
+			"getClosest",
+			"iscashi",
+			"getClosestShelf",
+			"closest",
+			"checkFinish",
+			"showfini",
+			"from",
+			"finish(",
+			"share-text",
+			"share img",
+			"scale-up-hor-center",
+			"#start",
+			"200",
+			"point",
+			"showFinish",
+			"showfinish",
+			"cashier",
+			"- 500",
+			"addshelf",
+			"frog",
+			"addShelf",
+			"addShelves",
+			"1.5",
+			"finish(",
+			"showFinish",
+			"checkFinish",
+			"1.1s",
+			"tagStyle",
+			"speechStyle",
+			"style",
+			"src",
+			"speechStyle",
+			"shadow",
+			"c-big",
+			"tint",
+			"почта",
+			"tint",
+			"replay",
+			"font-we",
+			"REPLAY",
+			"heigh",
+			"cashier",
+			"жало",
+			"fadeInFromNone",
+			"fadeIn",
+			"basket",
+			"frame",
+			"showing",
+			"= 5",
+			"15",
+			"purchase",
+			"purchasing",
+			"400",
+			"priceText",
+			"showing",
+			"att",
+			"attn",
+			"headph",
+			"att",
+			"EXAMPLE",
+			"поделиться",
+			"priceText",
+			"pricetext",
+			"priceText",
+			"scale.y = 0",
+			"0.0",
+			"01",
+			"pricetag.sca",
+			"scale.",
+			"priceText",
+			"priceText.scale",
+			"pricetag",
+			"hideFinish",
+			"rectan",
+			"objects",
+			"hideFinish",
+			"showFinish",
+			"closestCashier",
+			"conso",
+			"cons",
+			"hideFinish",
+			".scale.x =",
+			"this.char.x",
+			"showFinish",
+			"showfini",
+			"speechStyle",
+			"cashier.fi",
+			"800",
+			"addCashier",
+			"this.addCashier",
+			"this.cashiers",
+			"collidesRe",
+			"collides",
+			"300",
+			"console.l",
+			"checkfinish",
+			"Rectangle",
+			"this.cashiers.concat(",
+			"polygon",
+			"this.finishPolygon",
+			"checkfinish",
+			"texture",
+			"checkfini",
+			"finishPolygon",
+			"redStyle",
+			"tagStyle",
+			"priceStyle",
+			"console.",
+			"finishing",
+			"showfinish",
+			"cashier",
+			"rand",
+			"line(",
+			"isCashier",
+			"cashierPoint",
+			"showFinish",
+			"finish"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Tahoma",
+			"color: #f44295;",
+			"cdn.teatralium.com",
+			"javascript:",
+			"https://mx.ru",
+			"хуй хуй хуй",
+			"permission='client:edit'",
+			"deal:company:edit",
+			"'client:edit'",
+			"api.agenton.mx",
+			"",
+			"api.agenton.mx",
+			"\n//$_SERVER['ENVIRONMENT'] = 'production_from_develop';",
+			"$this->total",
+			"03uhd5h8ej3n",
+			"",
+			"namespace Libs",
+			"sb.downloads_stack",
+			"\\Exception",
+			"",
+			"sb.downloads_stack",
+			" \\Libs\\Publisher\\Encoder\\PublishEncoderFactory::create",
+			"",
+			"{\n",
+			"{",
+			"",
+			"$_query = $this->sql->query(",
+			"$query = $this->sql->query(",
+			"$this->sql->query($sql);",
+			"        $this->sql->query($sql);",
+			"        $this->sql = $libs['pgsql'];",
+			"$this->libs = $libs;\n$this->sql->query\n",
+			"$this->libs = $libs;\n$this->sql = $libs['pgsql'];\n",
+			"\n",
+			"/>\n",
+			" ",
+			"$this->validate($data);",
+			">\n",
+			"new \\pg_query",
+			"Libs\\Common\\ToolsAuth",
+			"Auth",
+			"",
+			"'/Common/sphinxapi.php'",
+			"'/Сommon/sphinxapi.php'",
+			"\\Libs\\Cache\\CacheFactory::",
+			"",
+			"/Cache/functions.php",
+			"",
+			"new \\Libs\\Common\\SphinxClient;",
+			"",
+			" \\GearmanClient",
+			"use \\Libs\\Common\\FileUpload;",
+			"use \\Libs\\Common\\Page;",
+			"SearchStats",
+			"new \\Libs\\Api\\UsersData",
+			"",
+			"Libs\\Common\\CmaReport::",
+			"Libs\\Common\\GeoHelper::",
+			"",
+			"new \\Libs\\Common\\Page",
+			"",
+			"\\Libs\\Common\\Page::",
+			"use Libs\\Common\\Useragent;",
+			"\\Libs\\Common\\Validate::",
+			"!\\Libs\\Common\\Validate::",
+			"",
+			"new \\DOMXPath",
+			"\\Libs\\Common\\Validate::",
+			"",
+			" \\Libs\\Common\\Grabber::",
+			"",
+			"use \\Libs\\Feeder\\Proxy;",
+			"(DescriptionParser::",
+			"(\\DescriptionParser::",
+			" \\Libs\\Common\\Normalize::",
+			"Raven_Client",
+			"\\Pimple\\Container $libs",
+			"namespace Libs\\Model;",
+			"new Libs\\Geo\\Geo(",
+			"\\Libs\\Parser\\Helper\\AddressFinder",
+			"",
+			"new Libs\\Geo\\Detector",
+			"Geo/Detector.php",
+			"Geo/Geo.php",
+			"Model/Model.php",
+			"namespace Libs\\Search;",
+			"namespace Libs\\Exporter\\Generators;",
+			"namespace Libs\\Exporter\\Collectors;",
+			"Libs\\Search\\Storage\\DealStorage",
+			"MMC::",
+			"Libs\\Model\\MMC::\n",
+			"}\n",
+			"",
+			"\\Libs\\Common\\Normalize::\n",
+			"}\n",
+			"",
+			"Libs\\Common\\Normalize::",
+			"Libs\\Api\\AgentonAPIClient",
+			"namespace libs\\search;",
+			"use Libs\\Search\\DataProvider\\ADataProvider;",
+			"    ",
+			"<span class=\"rur\">p<span>уб.</span>",
+			"&#8381;",
+			"/",
+			"50—100 $",
+			"'80 $ за",
+			"",
+			"1",
+			"",
+			"B72134",
+			"C35E6B",
+			"error_reporting(E_ALL & ~(E_STRICT|E_NOTICE));",
+			"",
+			"     ",
+			"    ",
+			"        ",
+			") {",
+			"    ",
+			"",
+			"Календарь",
+			"&&\n\n",
+			"&&\n",
+			" ",
+			"SO.",
+			"POS.",
+			"F_ORDER_ID",
+			"f_order_id",
+			"F_POS_ID"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/mac/Desktop/agenton":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 51.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 25.0
+	},
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"output.xdebug":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "",
+	"project": "magaz.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"app",
+				"app/displayobjects/App/App.js"
+			],
+			[
+				"frog",
+				"app/displayobjects/Character/Frog.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"sh",
+				"app/displayobjects/Shelf/Shelf.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"f",
+				"app/displayobjects/Character/Frog.js"
+			],
+			[
+				"fro",
+				"app/displayobjects/Character/Frog.js"
+			],
+			[
+				"shel",
+				"app/displayobjects/Shelf/Shelf.js"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"she",
+				"app/displayobjects/Shelf/Shelf.js"
+			],
+			[
+				"char",
+				"app/displayobjects/Character/Character.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"cash",
+				"app/displayobjects/Cash/Cash.js"
+			],
+			[
+				"sca",
+				"app/displayobjects/ScaledContainer/ScaledContainer.js"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"scale",
+				"app/displayobjects/ScaledContainer/ScaledContainer.js"
+			],
+			[
+				"app.js",
+				"app/app.js"
+			],
+			[
+				"index.ht",
+				"app/index.html"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"bg",
+				"app/displayobjects/Background/Background.js"
+			],
+			[
+				"scaled",
+				"app/displayobjects/ScaledContainer/ScaledContainer.js"
+			],
+			[
+				"shelf",
+				"app/displayobjects/Shelf/Shelf.js"
+			],
+			[
+				"id",
+				"app/index.html"
+			],
+			[
+				"finish",
+				"app/displayobjects/FinishScreen/FinishScreen.js"
+			],
+			[
+				"bac",
+				"app/displayobjects/Background/Background.js"
+			],
+			[
+				"ren",
+				"app/Renderer/Renderer.js"
+			],
+			[
+				"rend",
+				"app/Renderer/Renderer.js"
+			],
+			[
+				"animatio",
+				"app/stores/AnimationStore.js"
+			],
+			[
+				"app.j",
+				"app/app.js"
+			],
+			[
+				"cha",
+				"app/displayobjects/Character/Character.js"
+			],
+			[
+				"search",
+				"tadmin/src/routes/Shows/components/Search.js"
+			],
+			[
+				"showf",
+				"tadmin/src/routes/Shows/components/ShowForm.js"
+			],
+			[
+				"showform",
+				"tadmin/src/routes/Shows/components/ShowForm.js"
+			],
+			[
+				"show",
+				"tadmin/src/routes/Show/components/Show.js"
+			],
+			[
+				"sche",
+				"teatralium/api/server/schema.graphql"
+			],
+			[
+				"inde.",
+				"tadmin/src/index.html"
+			],
+			[
+				"sear",
+				"teatralium/teatralium/src/components/search.js"
+			],
+			[
+				"hed",
+				"teatralium/teatralium/src/components/header.js"
+			],
+			[
+				"search.l",
+				"teatralium/teatralium/src/style/search.less"
+			],
+			[
+				"index.le",
+				"teatralium/teatralium/src/style/index.less"
+			],
+			[
+				"arti",
+				"teatralium/teatralium/src/components/articles.js"
+			],
+			[
+				"hedaer",
+				"teatralium/teatralium/src/components/header.js"
+			],
+			[
+				"action",
+				"teatralium/teatralium/src/actions.js"
+			],
+			[
+				"default",
+				"teatralium/teatralium/src/DefaultHelmet.jsx"
+			],
+			[
+				"index.js",
+				"teatralium/teatralium/src/index.js"
+			],
+			[
+				"store.js",
+				"teatralium/teatralium/src/store.js"
+			],
+			[
+				"ssearch.",
+				"tadmin/src/routes/Shows/components/Search.js"
+			],
+			[
+				"webpa",
+				"teatralium/teatralium/webpack.config.babel.js"
+			],
+			[
+				"redu",
+				"teatralium/teatralium/src/reducers.js"
+			],
+			[
+				"serv",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"actin",
+				"teatralium/teatralium/src/actions.js"
+			],
+			[
+				"eslint",
+				"tadmin/.eslintrc"
+			],
+			[
+				"in",
+				"teatralium/teatralium/src/style/index.less"
+			],
+			[
+				"artilc",
+				"teatralium/teatralium/src/style/articles.less"
+			],
+			[
+				"index.l",
+				"teatralium/teatralium/src/style/index.less"
+			],
+			[
+				"artl",
+				"teatralium/teatralium/src/style/articles.less"
+			],
+			[
+				"eslin",
+				"teatralium/teatralium/.eslintrc"
+			],
+			[
+				"index.j",
+				"teatralium/teatralium/src/index.js"
+			],
+			[
+				"ar",
+				"teatralium/teatralium/src/components/articles.js"
+			],
+			[
+				"art",
+				"teatralium/teatralium/src/components/articles.js"
+			],
+			[
+				"packa",
+				"teatralium/teatralium/package.json"
+			],
+			[
+				"core.s",
+				"tadmin/src/styles/core.scss"
+			],
+			[
+				"esli",
+				"teatralium/teatralium/.eslintrc"
+			],
+			[
+				"tea",
+				"teatralium/api/teatralium.go"
+			],
+			[
+				"teatr",
+				"teatralium/api/teatralium.go"
+			],
+			[
+				"teat",
+				"teatralium/api/teatralium.go"
+			],
+			[
+				"search.j",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"core",
+				"t/src/styles/core.scss"
+			],
+			[
+				"show.js",
+				"t/src/routes/Show/components/Show.js"
+			],
+			[
+				"show.cs",
+				"t/src/routes/Shows/components/show.css"
+			],
+			[
+				"show.css",
+				"t/src/routes/Shows/components/show.css"
+			],
+			[
+				"gitl",
+				"teatralium/api/.gitlab-ci.yml"
+			],
+			[
+				"shows.",
+				"t/src/routes/Shows/modules/shows.js"
+			],
+			[
+				"criti",
+				"t/src/routes/Shows/components/Critique.js"
+			],
+			[
+				"showfo",
+				"t/src/routes/Shows/components/ShowForm.js"
+			],
+			[
+				"serve",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"show.",
+				"teatralium/api/show.go"
+			],
+			[
+				"gitlab",
+				"teatralium/api/.gitlab-ci.yml"
+			],
+			[
+				"crti",
+				"teatralium/api/critique.go"
+			],
+			[
+				"server",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"sea",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"shows",
+				"t/src/routes/Shows/components/Show.js"
+			],
+			[
+				"sch",
+				"teatralium/api/server/schema.graphql"
+			],
+			[
+				"main",
+				"t/server/main.js"
+			],
+			[
+				"search.c",
+				"t/src/routes/Shows/components/search.css"
+			],
+			[
+				"fiel",
+				"t/src/components/Form/Field.js"
+			],
+			[
+				"core.",
+				"t/src/styles/core.scss"
+			],
+			[
+				"server.go",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"how",
+				"teatralium/api/show.go"
+			],
+			[
+				"schem",
+				"teatralium/api/server/schema.graphql"
+			],
+			[
+				"schema",
+				"graphql-go/internal/schema/schema.go"
+			],
+			[
+				"mai",
+				"t/server/main.js"
+			],
+			[
+				"paka",
+				"t/package.json"
+			],
+			[
+				"webpack",
+				"t/config/webpack.config.js"
+			],
+			[
+				"se",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"showco",
+				"t/src/routes/Shows/containers/ShowsContainer.js"
+			],
+			[
+				"search.",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"seach",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"pac",
+				"t/package.json"
+			],
+			[
+				"showsindex.",
+				"t/src/routes/Shows/index.js"
+			],
+			[
+				"route",
+				"t/src/routes/index.js"
+			],
+			[
+				"home",
+				"t/src/routes/Home/components/HomeView.js"
+			],
+			[
+				"revi",
+				"teatralium/api/review.go"
+			],
+			[
+				"sho.cs",
+				"t/src/routes/Shows/components/show.css"
+			],
+			[
+				"spin",
+				"t/src/components/Spinner/Spinner.js"
+			],
+			[
+				"field",
+				"t/src/components/Form/Field.js"
+			],
+			[
+				"shows.c",
+				"t/src/routes/Shows/containers/ShowsContainer.js"
+			],
+			[
+				"shows.js",
+				"t/src/routes/Shows/modules/shows.js"
+			],
+			[
+				"sho",
+				"teatralium/api/show.go"
+			],
+			[
+				"server.",
+				"teatralium/api/server/server.go"
+			],
+			[
+				"showc",
+				"t/src/routes/Shows/containers/ShowsContainer.js"
+			],
+			[
+				"rev",
+				"teatralium/api/review.go"
+			],
+			[
+				"crt",
+				"teatralium/api/critique.go"
+			],
+			[
+				"searhc",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"cri",
+				"t/src/routes/Shows/components/Critique.js"
+			],
+			[
+				"showfp",
+				"t/src/routes/Shows/components/ShowForm.js"
+			],
+			[
+				"searc",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"show.c",
+				"t/src/routes/Shows/components/show.css"
+			],
+			[
+				"show.g",
+				"teatralium/api/show.go"
+			],
+			[
+				"search.js",
+				"t/src/routes/Shows/components/Search.js"
+			],
+			[
+				"search.cs",
+				"t/src/routes/Shows/components/search.css"
+			],
+			[
+				"form",
+				"t/src/components/Form/Field.js"
+			],
+			[
+				"show.j",
+				"t/src/routes/Shows/components/Show.js"
+			],
+			[
+				"star",
+				"graphql-go/example/starwars/starwars.go"
+			],
+			[
+				"layo",
+				"t/src/layouts/CoreLayout/CoreLayout.js"
+			],
+			[
+				"ba",
+				"t/src/styles/_base.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/yahon/yahon.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "/",
+		"selected_items":
+		[
+			[
+				"/",
+				"Libs\\Api"
+			],
+			[
+				"",
+				"AMALLSParser"
+			],
+			[
+				"go t",
+				"goTo"
+			]
+		],
+		"width": 899.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
